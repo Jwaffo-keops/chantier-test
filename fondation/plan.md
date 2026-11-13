@@ -1,6 +1,6 @@
 # Plan
 
-Pièces : cuisine, salon
+Pièces : cuisine, salon, garage
 
 Étage : non
 
